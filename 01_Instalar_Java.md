@@ -17,14 +17,13 @@ java -version
 
 ![Alt text](imagenes/check_java_version_01.jpg?raw=true "Validar versión de Java - Parte 1")
 
-Esto dio como resultado que definitivamente no lo tengo instalado.
-&nbsp;
-&nbsp;
-&nbsp;
-## 2 En mi caso no esta instalado, así que toca hacer lo necesario para tenerlo.
+Bue, definitivamente no lo tengo instalado.
 
-* Ir a pagina oficial
-* Instalar, siguiente, siguiente, siguiente:
+## 2 Toca hacer lo necesario para tenerlo.
+
+* Ir a pagina oficial.
+* Descargar.
+* Instalar y siguiente, siguiente, siguiente.
 
 [https://java.com/en/download/](https://java.com/en/download/)
 
@@ -32,13 +31,15 @@ Esto dio como resultado que definitivamente no lo tengo instalado.
 ![Alt text](imagenes/descargar_java.jpg?raw=true "Descargar Java")
 
 
-## 3 Instalar y validar.
+## 3 Validar de nuevo.
 
 ```
 java -version
 ```
 
 ![Alt text](imagenes/java_instalado.jpg?raw=true "Validar versión de Java - Parte 2")
+
+
 
 
 ### Fin
