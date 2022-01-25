@@ -4,7 +4,7 @@ Instalar un entorno de trabajo de BigData y DeepLearning en Windows
 
 Pasos Generales:
 
-*  [Instalar / Validar - Java8](https://github.com/jrrivasvivas/BigData_DeepLearning_Windows/blob/main/Instalar_Java.md).
+*  [Instalar / Validar - Java8](https://github.com/jrrivasvivas/BigData_DeepLearning_Windows/blob/main/01_Instalar_Java.md).
 * Hadoop/Spark.
 * Conda.
 * Tensorflow.
