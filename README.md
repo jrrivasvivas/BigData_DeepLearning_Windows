@@ -1,13 +1,21 @@
 # BigData DeepLearning Windows
+## (Work in Progress)
 Instalar un entorno de trabajo de BigData y DeepLearning en Windows
 
-* Hadoop
-* Spark
-* Conda
-* Tensorflow
+Pasos Generales:
 
-![Alt text](imagenes/check_java_version_01.jpg?raw=true "Title")
+* Java.
+* Hadoop/Spark.
+* Conda.
+* Tensorflow.
+
+
+
+
+
+
+
 
 
 Fuentes:
-https://phoenixnap.com/kb/install-spark-on-windows-10
+* https://phoenixnap.com/kb/install-spark-on-windows-10
