@@ -1,6 +1,7 @@
 # BigData DeepLearning Windows
-Instalar todo el entorno de trabajo de BigData y DeeLearning en Windows
-*Hadoop
-*Spark
-*Conda
-*Tensorflow
+Instalar un entorno de trabajo de BigData y DeepLearning en Windows
+
+* Hadoop
+* Spark
+* Conda
+* Tensorflow
